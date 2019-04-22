@@ -1,11 +1,11 @@
-## HIIT Tracker
-#### Formerly Orange Theory Fitness App
+## Ballet Activity Tracker
 **For Garmin Connect IQ**
-
-**This App is Unofficial and was not created by [Orange Theory Fitness](http://www.orangetheoryfitness.com)**
 
 ![Capture](dist/graphics/ciq-badge.png)
 
+**Work in process...**
+
+<!--
 ### Description
 
 This Garmin Connect IQ App provides a display on your Garmin Device which closely matches the display seen on the screens in Orange Theory Fitness studios.  It is intended to be used in-studio along with any of the official OTF heart rate monitors.  Devices equipped with internal HRM's can use this sensor as well but it is not as accurate.  By default the app will record an activity of type Treadmill Running but can be changed by the user.  This activity and it's FIT data can be saved and sync'd with Garmin Connect just as any other fitness tracking app does.
@@ -203,3 +203,4 @@ Pull requests and translations are welcomed!
 
 * Initial Release
 
+-->
